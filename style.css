@@ -1,0 +1,10 @@
+section {
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+#hero {
+    padding-top: calc(1rem + 42px);
+    background-color: #fafafa;
+    border-bottom: 1px solid #eaeaea;
+}
